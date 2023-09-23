@@ -1,7 +1,13 @@
 .navbar {
-  height: 100px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
   width: 100%;
-  background-color: #21325e;
+  height: 44px;
+ background-color:  rgba(255,255,255,0.97);
+  color: #C0BBB2;
+  color: #B2B7C0;
+
 }
 
 .container {
@@ -9,11 +15,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
+
 }
 
 .link {
   text-decoration: none;
-  color: white;
-  font-size: 25px;
+  color: black;
+  font-size: 20px;
   margin: 20px;
 }
