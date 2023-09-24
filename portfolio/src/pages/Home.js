@@ -10,6 +10,7 @@ function Home(){
       <Container maxWidth={false}  disableGutters>
         {/* About section */}
         <Box className="about">
+          <Box sx={{margin: 10}}/>
           <Typography variant="h2">My name is</Typography> 
           <Typography variant="h1">Andrew Wei</Typography>
           <Typography variant="h3">Bonjour, hi.</Typography>
@@ -22,6 +23,7 @@ function Home(){
         </Box>
         {/* Skills section */}
         <Box className="skills">
+          <Box sx={{margin: 4}}/>
           <Typography variant="h2">I am</Typography>
           <Typography variant="h1">Forever curious, Enlessly ambitious.</Typography>
           

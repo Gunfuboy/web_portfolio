@@ -1,7 +1,5 @@
 .home{
     font-family: Arial, sans-serif;
-    color: #C0BBB2 ;
-    color: #B2B7C0;
 }
 
 .about{
@@ -13,6 +11,7 @@
     text-align: center;
     background-color: black;
     color: white;
+    
 }
 
 .about h3 {
