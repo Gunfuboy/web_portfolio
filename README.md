@@ -1,6 +1,16 @@
 # Andrew's Web Portfolio
 This is a personal web portolio created to practice React.
 
+## Quick Start
+To check out the website, first 
+
+### `cd portfolio`
+
+Then
+
+### `npm start`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
