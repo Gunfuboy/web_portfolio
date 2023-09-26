@@ -2,7 +2,11 @@
 This is a personal web portolio created to practice React.
 
 ## Quick Start
-To check out the website, first 
+To check out the website, first ensure all dependencies are installed using 
+
+### `npm install`
+
+Then go to the /portfolio folder
 
 ### `cd portfolio`
 
