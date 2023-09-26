@@ -25,7 +25,7 @@ function Home(){
         <Box className="skills">
           <Box sx={{margin: 4}}/>
           <Typography variant="h2">I am</Typography>
-          <Typography variant="h1">Forever curious, Enlessly ambitious.</Typography>
+          <Typography variant="h1">Result-oriented, Curious, and Ambitious.</Typography>
           
           <Box className="list">
             <Typography align="center" variant="h1" >
